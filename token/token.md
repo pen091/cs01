@@ -130,7 +130,7 @@ eg :	ASCII --> America standard code for
 
 	what is string literals in C ?
 
-It a way to represent string likie "hello world".
+It a way to represent string like "hello world".
 
 NOTE : In C language there is no format to represent
        string except using the concept of pointers.
@@ -172,11 +172,9 @@ comparison, bitwise, logical.
 	
 	what are punctuations in C ?
 
-They are symbols used to perform different features
-such as Terminate a variable, condition, jumps
-Trigraph and format specifiers.
+They are symbols used to perform different features such as Terminate a statement, condition, jumps, Trigraph and format specifiers.
 
-	Terminate variable
+	Terminate statement 
 		--	;
 
 	Condition
