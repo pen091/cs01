@@ -2,6 +2,10 @@ CC=gcc
 
 all : char int float double void
 
+lsb :
+	$(CC) lsb.c -o lsb
+	./lsb
+
 char :
 	$(CC) char.c -o char
 
@@ -23,6 +27,7 @@ clean :
 	rm float 
 	rm double 
 	rm void
+	rm lsb
 
 run_char :
 	./char

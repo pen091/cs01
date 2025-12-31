@@ -1,12 +1,19 @@
+	STUDY C PROGRAMMING LANGUAGE
 
-Compile all using:
+Hi am pen
 
-	make all
+ Using this complete life source code
+full of practical examples of code, that are
+well example and structed
 
-delete generated compile process :
+Contact me : +234 913 216 5565
 
-	make clean
+Email me : princeekenendioziri@gmail.com
 
-execute using :
+github repo : https://github.com/pen091
 
-	make run
+darkweb site url : https://pen091.guthub.io/hackpace
+
+course website : https://pen091/github.io/newlife
+
+
