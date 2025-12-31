@@ -41,7 +41,7 @@ These keywords are used  to define the type
 of data.
 
  --	char
- --     int 
+ --     int
  --	float
  --	double
  --	void
